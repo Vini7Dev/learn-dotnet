@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\LearnCSharp\\LearnCSharp.csproj": {}
+    "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\LearnCSharp\\LearnCSharp.csproj": {
+    "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\LearnCSharp\\LearnCSharp.csproj",
-        "projectName": "LearnCSharp",
-        "projectPath": "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\LearnCSharp\\LearnCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\LearnCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Documents\\Projetos Pessoais\\learn-dotnet\\01_CSharpFundamentals\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config"
