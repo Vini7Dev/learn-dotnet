@@ -6,7 +6,9 @@ namespace Stopwatch
   {
     static void Main(string[] args)
     {
-      //
+      var stopwatch = new Stopwatch();
+
+      stopwatch.Start();
     }
   }
 }

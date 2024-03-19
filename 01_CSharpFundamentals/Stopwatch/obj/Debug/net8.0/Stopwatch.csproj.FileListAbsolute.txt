@@ -1,0 +1,15 @@
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\Stopwatch.sourcelink.json
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+C:\Users\Public\Documents\Projetos Pessoais\learn-dotnet\01_CSharpFundamentals\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
