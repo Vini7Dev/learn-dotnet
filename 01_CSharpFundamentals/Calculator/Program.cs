@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Calculator
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.Clear();
+
+      var calculator = new Calculator();
+
+      calculator.Start();
+    }
+  }
+}
